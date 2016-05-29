@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cardetails</string>
+    <string name="button_add_car">Add car</string>
+    <string name="button_exit_start">Exit App</string>
+    <string name="next_page">Next Page</string>
+    <string name="button_view_car">View car</string>
+    <string name="button_exit_app">Exit</string>
+    <string name="finish_button">finish</string>
+</resources>
